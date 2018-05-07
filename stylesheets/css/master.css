@@ -1,0 +1,98 @@
+.first-table {
+  width: relative;
+  height: 40px;
+  border: 1px solid #000;
+  background-color: blue;
+}
+
+h3 {
+  float: right;
+  padding-right: 20px;
+}
+
+.dog-in-circle {
+  color: white;
+  padding: 10px;
+  width: 40px;
+  height: 25px;
+  right: -20px;
+  top: -10px;
+}
+.dog-in-second-circle {
+  border-radius: 200px;
+  border: solid blue;
+
+}
+
+.second-table {
+width: relative;
+height: 500px;
+border: 1px solid #000;
+background: url("../../images/park.jpg");
+
+}
+
+.what-are-dogs {
+  width: 20%;
+  border: 5px solid blue;
+  background: white;
+}
+
+
+.third-table {
+  float: left;
+  padding: 100px;
+}
+
+.fourth-table {
+  float:left;
+  padding: 100px;
+
+}
+.fifth-table {
+  float: right;
+  padding: 100px;
+
+}
+
+.dog-in-third-circle {
+  border-radius: 200px;
+  width: 200px;
+}
+.dog-in-fourth-circle {
+  border-radius: 200px;
+  width: 200px;
+}
+.dog-in-fifth-circle {
+  border-radius: 200px;
+  width: 200px;
+}
+
+.text-under-dog {
+  text-align: center;
+  width: 70%;
+  border: 5px solid blue;
+  background: white;
+}
+
+.last-box {
+  margin: 500px 10px 50px 10px;
+  background: blue;
+  height: 300px;
+
+}
+
+.learn-about-dogs {
+  color: white;
+}
+
+.social-media-icon {
+  border-radius: 2px;
+  padding: 15px;
+}
+
+.see-this-in-github {
+  color: white;
+  text-decoration: underline;
+
+}
