@@ -26,6 +26,7 @@ h3 {
 width: relative;
 height: 500px;
 border: 1px solid #000;
+background-size: cover;
 background: url("../../images/park.jpg");
 
 }
@@ -85,7 +86,7 @@ background: url("../../images/park.jpg");
 }
 
 .social-media-icon {
-  border-radius: 2px;
+  border-radius: 25px;
   padding: 15px;
 }
 
